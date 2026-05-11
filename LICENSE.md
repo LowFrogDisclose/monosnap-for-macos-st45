@@ -1,4 +1,4 @@
-
+Monosnap for macOS new Plugin - custom-actions and app-uninstaller offers the most advanced Monosnap for macOS plugin, with custom-actions and app-uninstaller. Ideal for macOS
 
 
 
